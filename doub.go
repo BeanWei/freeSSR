@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
+	"os/exec"
 	"regexp"
 	"strings"
 	"time"
@@ -34,4 +35,10 @@ func main() {
 	})
 
 	c.Visit("https://doub.io/sszhfx/")
+}
+
+func autogit() {
+	exec.Command("git add -A -- .").Run()
+	exec.Command("git commit --`ssr节点分享，每日更新` --file - --all").Run()
+	exec.Command("git pull --f origin master").Run()
 }
