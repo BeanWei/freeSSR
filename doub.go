@@ -28,7 +28,7 @@ func main() {
 		if error != nil {
 			fmt.Println(error)
 		}
-		t := time.Now().Format("2006-01-02")
+		t := time.Now().Format("2006-01-02 15:04:05")
 		strText := fmt.Sprintf(templet, t, ssrAddr2Str)
 		file.WriteString(strText)
 		fmt.Print(">>> Git同步···")
