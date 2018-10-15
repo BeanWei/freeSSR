@@ -32,6 +32,7 @@ func main() {
 		strText := fmt.Sprintf(templet, t, ssrAddr2Str)
 		file.WriteString(strText)
 		fmt.Print(">>> Git同步···")
+		autogit()
 	})
 
 	c.Visit("https://doub.io/sszhfx/")
