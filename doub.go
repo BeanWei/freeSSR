@@ -30,7 +30,7 @@ func main() {
 		t := time.Now().Format("2006-01-02")
 		strText := fmt.Sprintf(templet, t, ssrAddr2Str)
 		file.WriteString(strText)
-		fmt.Print("Git同步···")
+		fmt.Print(">>> Git同步···")
 	})
 
 	c.Visit("https://doub.io/sszhfx/")
