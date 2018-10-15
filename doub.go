@@ -39,7 +39,7 @@ func main() {
 }
 
 func autogit() {
-	exec.Command("git add -A -- .").Run()
+	exec.Command("git add .").Run()
 	exec.Command("git commit --`ssr节点分享，每日更新` --file - --all").Run()
 	exec.Command("git push --f origin").Run()
 }
