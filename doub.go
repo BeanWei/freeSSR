@@ -33,6 +33,7 @@ func main() {
 		file.WriteString(strText)
 		fmt.Print(">>> Git同步···")
 		autogit()
+		fmt.Print(">>> Done")
 	})
 
 	c.Visit("https://doub.io/sszhfx/")
