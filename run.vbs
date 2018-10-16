@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "cmd /c go run doub.go",0
