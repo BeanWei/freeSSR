@@ -31,16 +31,20 @@ func main() {
 		t := time.Now().Format("2006-01-02 15:04:05")
 		strText := fmt.Sprintf(templet, t, ssrAddr2Str)
 		file.WriteString(strText)
-		fmt.Print(">>> Git同步···")
-		autogit()
+		fmt.Print(">>> Git同步···\n")
+		autogit("git add .")
+		autogit("git commit -m \"ssr节点分享，每日更新\"")
+		autogit("git push --f origin master")
 		fmt.Print(">>> Done")
 	})
 
 	c.Visit("https://doub.io/sszhfx/")
 }
 
-func autogit() {
-	exec.Command("cmd", "/C", "git add .").Run()
-	exec.Command("cmd", "/C", "git commit -m \"ssr节点分享，每日更新\"").Run()
-	exec.Command("cmd", "/C", "git push --f origin master").Run()
+func autogit(strCmd string) {
+	stout, err := exec.Command("cmd", "/C", strCmd).Output()
+	if err != nil {
+		fmt.Print(err)
+	}
+	fmt.Print(stout)
 }
