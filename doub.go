@@ -23,7 +23,7 @@ func main() {
 		reg := regexp.MustCompile(`ssr(.*?)[\n]`)
 		ssrAddr := reg.FindAllString(comments, -1)
 		ssrAddr2Str := strings.Replace(strings.Trim(fmt.Sprint(ssrAddr), "[]"), " ", "\n", -1)
-		file, error := os.OpenFile("README.md", os.O_WRONLY|os.O_TRUNC, 0600)
+		file, error := os.OpenFile("README.md", os.O_WRONLY|os.O_TRUNC|os.O_CREATE, 0600)
 		defer file.Close()
 		if error != nil {
 			fmt.Println(error)
