@@ -46,5 +46,5 @@ func autogit(strCmd string) {
 	if err != nil {
 		fmt.Print(err)
 	}
-	fmt.Print(stout)
+	fmt.Print(string(stout))
 }
