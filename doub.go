@@ -32,7 +32,7 @@ func main() {
 		strText := fmt.Sprintf(templet, t, ssrAddr2Str)
 		file.WriteString(strText)
 		fmt.Print(">>> Git同步···\n")
-		autogit("git add .")
+		autogit("git add README.md")
 		autogit("git commit -m \"ssr节点分享，每日更新\"")
 		autogit("git remote add origin git@github.com:BeanWei/freeSSR.git")
 		autogit("git pull origin master")
