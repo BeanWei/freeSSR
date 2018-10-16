@@ -36,7 +36,7 @@ func main() {
 		autogit("git commit -m \"ssr节点分享，每日更新\"")
 		autogit("git remote add origin git@github.com:BeanWei/freeSSR.git")
 		autogit("git pull origin master")
-		autogit("git push --f origin master")
+		autogit("git push -f origin master")
 		fmt.Print("\n>>> Done")
 	})
 
