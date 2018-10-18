@@ -4,7 +4,7 @@ go run doub.go
 
 timeout 2
 
-git add C:\Users\Administrator\Desktop\Bean\Go\src\github.com\BeanWei\SSR\README.md
+git add README.md
 
 git commit -m "ssr节点分享，每日更新"
 
