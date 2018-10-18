@@ -13,3 +13,5 @@ git remote add origin git@github.com:BeanWei/freeSSR.git
 git pull origin master
 
 git push origin master
+
+exit
