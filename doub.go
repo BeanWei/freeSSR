@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"os"
-	"os/exec"
 	"regexp"
 	"strings"
 	"time"
@@ -31,22 +30,22 @@ func main() {
 		t := time.Now().Format("2006-01-02 15:04:05")
 		strText := fmt.Sprintf(templet, t, ssrAddr2Str)
 		file.WriteString(strText)
-		fmt.Print(">>> Git同步···\n")
-		autogit("git add C:\\Users\\Administrator\\Desktop\\Bean\\Go\\src\\github.com\\BeanWei\\SSR\\README.md")
-		autogit("git commit -am \"ssr节点分享，每日更新\"")
-		autogit("git remote add origin git@github.com:BeanWei/freeSSR.git")
-		autogit("git pull origin master")
-		autogit("git push origin master")
-		fmt.Print("\n>>> Done")
+		// fmt.Print(">>> Git同步···\n")
+		// autogit("git add C:\\Users\\Administrator\\Desktop\\Bean\\Go\\src\\github.com\\BeanWei\\SSR\\README.md")
+		// autogit("git commit -m \"ssr节点分享，每日更新\"")
+		// autogit("git remote add origin git@github.com:BeanWei/freeSSR.git")
+		// autogit("git pull origin master")
+		// autogit("git push origin master")
+		// fmt.Print("\n>>> Done")
 	})
 
 	c.Visit("https://doub.io/sszhfx/")
 }
 
-func autogit(strCmd string) {
-	stout, err := exec.Command("cmd", "/C", strCmd).Output()
-	if err != nil {
-		fmt.Print(err)
-	}
-	fmt.Print(string(stout))
-}
+// func autogit(strCmd string) {
+// 	stout, err := exec.Command("cmd", "/C", strCmd).Output()
+// 	if err != nil {
+// 		fmt.Print(err)
+// 	}
+// 	fmt.Print(string(stout))
+// }
