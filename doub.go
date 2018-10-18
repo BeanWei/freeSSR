@@ -23,7 +23,7 @@ func main() {
 		reg := regexp.MustCompile(`ssr(.*?)[\n]`)
 		ssrAddr := reg.FindAllString(comments, -1)
 		ssrAddr2Str := strings.Replace(strings.Trim(fmt.Sprint(ssrAddr), "[]"), " ", "\n", -1)
-		file, error := os.OpenFile("README.md", os.O_WRONLY|os.O_TRUNC|os.O_CREATE, 0600)
+		file, error := os.OpenFile("C:\\Users\\Administrator\\Desktop\\Bean\\Go\\src\\github.com\\BeanWei\\SSR\\README.md", os.O_WRONLY|os.O_TRUNC|os.O_CREATE, 0600)
 		defer file.Close()
 		if error != nil {
 			fmt.Println(error)
@@ -32,7 +32,7 @@ func main() {
 		strText := fmt.Sprintf(templet, t, ssrAddr2Str)
 		file.WriteString(strText)
 		fmt.Print(">>> Git同步···\n")
-		autogit("git add README.md")
+		autogit("git add C:\\Users\\Administrator\\Desktop\\Bean\\Go\\src\\github.com\\BeanWei\\SSR\\README.md")
 		autogit("git commit -am \"ssr节点分享，每日更新\"")
 		autogit("git remote add origin git@github.com:BeanWei/freeSSR.git")
 		autogit("git pull origin master")
