@@ -1,10 +1,12 @@
 # SSR 账号每日更新 
 > 数据来源: [逗比根据地](https://doub.io/sszhfx/) 
 ----------------------------------------------
-## 更新日期：2018-10-26 20:25:20 
+## 更新日期：2018-10-26 23:25:19 
 ***食用方法：复制下面的节点到SSR客户端去重添加即可***
 
- ssr://MTc4LjEyOC44My4xMTU6OTkwMjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpTMmx0YVZKaGFXdHJiMjVsYmc
+ ssr://NTAuMy4yNDIuMTMzOjE1MTU0OmF1dGhfc2hhMV92NDpjaGFjaGEyMDpodHRwX3NpbXBsZTpOalExT1RjNC8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTc3eUlNVEF1TWpidnZJbmxoWTNvdExubXRZdm9yNVhvaW9Mbmdya0s2Wm1RNllDZjZaeUE2S2FCNmF1WTZZQ2Y1NXFFNklxQzU0SzVVVkV4TWpBNE1UZzJPVEkzJmdyb3VwPQ
+
+ssr://MTc4LjEyOC44My4xMTU6OTkwMjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpTMmx0YVZKaGFXdHJiMjVsYmc
 
 ssr://c3RhcnMtaXJlMS54Y3Nzci50b3A6MzkyMjA6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZUZoWE4yRTAvP29iZnNwYXJhbT0mcmVtYXJrcz01WVdONkxTNTU0aXg1YkNVNVlXd0lIZDNkeTV6ZEdGeWMyTnNiM1ZrTG05eVp5RG52cVF4TlRJMk9EY3pNemNnTkRibW5hSGxrSVRsbkxEbGpMcm9wNGJwb3BIbXVMam1pSV9rdUpQbnVyOCZncm91cD1VM1JoY25ORGJHOTFaT1d1bU9lOWtlLThtbmQzZHk1emRHRnljMk5zYjNWa0xtOXladw
 
