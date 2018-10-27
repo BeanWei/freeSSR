@@ -1,10 +1,12 @@
 # SSR 账号每日更新 
 > 数据来源: [逗比根据地](https://doub.io/sszhfx/) 
 ----------------------------------------------
-## 更新日期：2018-10-27 23:25:02 
+## 更新日期：2018-10-28 02:25:16 
 ***食用方法：复制下面的节点到SSR客户端去重添加即可***
 
- ssr://c3NyMi5sanluZ3VwLmNvbTozOTY3NDphdXRoX2NoYWluX2E6YWVzLTI1Ni1jZmI6cGxhaW46ZDNkM0xteHFlVzVuZFhBdVkyOXQ
+ ssr://YXAtc291dGhlYXN0LWFseTEuY2xvdWRub2RlLmhvc3Q6NDQzOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6aHR0cF9zaW1wbGU6V1ZOblZuUk4vP29iZnNwYXJhbT1NREF3TWpVNU55NXRhV055YjNOdlpuUXVZMjl0JnByb3RvcGFyYW09T1RjNldVVnRiRWsxJnJlbWFya3M9NXBhdzVZcWc1WjJoNlppXzZZZU01THFSTlRBd1RTQXRJRFEwTXlEbGpaWG5xNl9sajZNJmdyb3VwPWVYVnU
+
+ssr://c3NyMi5sanluZ3VwLmNvbTozOTY3NDphdXRoX2NoYWluX2E6YWVzLTI1Ni1jZmI6cGxhaW46ZDNkM0xteHFlVzVuZFhBdVkyOXQ
 
 ssr://NDUuNjMuMTIwLjEyMDo0MDk3MzphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpOamM0TkRVMU9EUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVxMms1WWlHNUxxcjZabVE2WUNmQ3VpMHJlUzVzT1dLb0ZGUk5URTJNRFExT0EmZ3JvdXA9NXBlbDVweXM
 
