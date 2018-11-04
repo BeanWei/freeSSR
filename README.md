@@ -1,10 +1,17 @@
 # SSR 账号每日更新 
 > 数据来源: [逗比根据地](https://doub.io/sszhfx/) 
 ----------------------------------------------
-## 更新日期：2018-11-04 14:25:14 
+## 更新日期：2018-11-04 17:25:12 
 ***食用方法：复制下面的节点到SSR客户端去重添加即可***
 
- ssr://ZnJlZS56enZhbi5tbDoyMDQ4Om9yaWdpbjphZXMtMTI4LWN0cjpwbGFpbjpNVEl6TkRVMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyR0M1WkNJNTZlZmNYRXhNREUzTnpRMU5USXhJSFJuNTc2azU3dUVhSFIwY0hNNkx5OTBMbTFsTDNOemNuTm9ZWEpwYm1j
+ ssr://MTk0LjE1Ni4yMzAuNTU6ODA6YXV0aF9jaGFpbl9hOm5vbmU6aHR0cF9zaW1wbGU6TVRNeE5EVXlNQS8_b2Jmc3BhcmFtPWJYVnphV011YUhoc2JDNTNiM04wYjNKbExtTnVJME52Ym01bFkzUnBiMjQ2SUV0bFpYQXRRV3hwZG1WY2JrRmpZMlZ3ZEMxRmJtTnZaR2x1WnpvZ1ozcHBjQSZwcm90b3BhcmFtPSZyZW1hcmtzPWFIUjBjRG92TDJKcGJtZHJhaTUwYjNBdjU2aXo1YTZhNmF1WTZZQ2Y1cUt2NWEyUSZncm91cD1OZVdGZy1XTWhlYWNpT1M0amVtWmtPbUhqdw
+
+ssr://NTguMTUyLjQ3LjMzOjQxMDI1Om9yaWdpbjpjaGFjaGEyMC1pZXRmOnBsYWluOmMzTnljM011YzNCaFkyVS8_b2Jmc3BhcmFtPSZyZW1hcmtzPWFIUjBjSE02THk5emMzSnpjeTV6Y0dGalpRJmdyb3VwPU1URGxoWU16TU9lNnYtaTNyLW1ybU9lcnItYWN1dVdjdXVlOWtlV2RnQQ
+
+ssrss.space/register?aff=41
+（已用一年多，很稳）
+
+ssr://ZnJlZS56enZhbi5tbDoyMDQ4Om9yaWdpbjphZXMtMTI4LWN0cjpwbGFpbjpNVEl6TkRVMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyR0M1WkNJNTZlZmNYRXhNREUzTnpRMU5USXhJSFJuNTc2azU3dUVhSFIwY0hNNkx5OTBMbTFsTDNOemNuTm9ZWEpwYm1j
 
 ssr://aWwud2FuamluZy5tZToyMDE4OmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjpwbGFpbjpNWEZoZWpKM2MzZw
 
