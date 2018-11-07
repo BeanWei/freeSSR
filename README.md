@@ -1,10 +1,22 @@
 # SSR 账号每日更新 
 > 数据来源: [逗比根据地](https://doub.io/sszhfx/) 
 ----------------------------------------------
-## 更新日期：2018-11-07 11:25:23 
+## 更新日期：2018-11-07 14:25:30 
 ***食用方法：复制下面的节点到SSR客户端去重添加即可***
 
- ssr://MTY4LjIzNS4xMDUuMjMwOjE2OTg6YXV0aF9hZXMxMjhfc2hhMTphZXMtMTI4LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6Ykd4dmVEVTJMeTh1WkcxaE16TTBOV2NuWFZ0ay8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPWFIVmhlR2xoTVM1MGIzQSZncm91cD0
+ ssr://MTA3LjE3NS4xOC4xNTc6MjMzMzphdXRoX2FlczEyOF9tZDU6YWVzLTEyOC1jdHI6cGxhaW46Wkc5MVlpNXBidw
+
+
+ssr://MTA3LjE3NS4xOC4xNTc6MjMzMzphdXRoX2FlczEyOF9tZDU6YWVzLTEyOC1jdHI6cGxhaW46Wkc5MVlpNXBidw
+
+
+ssr://MTcwLjE3OC4xNjcuMTQ5OjIzMzM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY3RyOnBsYWluOlpHOTFZaTVwYnc
+
+
+ssr://MTcwLjE3OC4xNjcuMTQ5OjIzMzM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY3RyOnBsYWluOlpHOTFZaTVwYnc
+
+
+ssr://MTY4LjIzNS4xMDUuMjMwOjE2OTg6YXV0aF9hZXMxMjhfc2hhMTphZXMtMTI4LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6Ykd4dmVEVTJMeTh1WkcxaE16TTBOV2NuWFZ0ay8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPWFIVmhlR2xoTVM1MGIzQSZncm91cD0
 
 ssr://MTQyLjkzLjg0LjE1Mzo4ODgwOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOmJYbGFha0kxYWtoMVpuaFZNRGhLWWxkd1lYTnpkMjl5WkE
 
