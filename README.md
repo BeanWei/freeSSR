@@ -1,10 +1,12 @@
 # SSR 账号每日更新 
 > 数据来源: [逗比根据地](https://doub.io/sszhfx/) 
 ----------------------------------------------
-## 更新日期：2018-11-07 20:25:21 
+## 更新日期：2018-11-07 23:25:20 
 ***食用方法：复制下面的节点到SSR客户端去重添加即可***
 
- ssr://NTguMTUyLjQ3LjMzOjQxMDI1Om9yaWdpbjpjaGFjaGEyMC1pZXRmOnBsYWluOmFIUjBjSE02THk5emMzSnpjeTV6Y0dGalpRLz9vYmZzcGFyYW09JnJlbWFya3M9YUhSMGNITTZMeTl6YzNKemN5NXpjR0ZqWlEmZ3JvdXA9TVREbGhZTXpNT2U2di1pM3ItbXJtT2Vyci1hY3V1V2N1Zw
+ ssr://NTAuMy4yNDIuMTMzOjEyNTE6YXV0aF9zaGExX3Y0OmNoYWNoYTIwOmh0dHBfc2ltcGxlOk9UWTNORGs0TnprLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9Nzd5SU1URXVOLS04aWVXRmplaTB1ZWExaS1pdmxlaUtndWVDdVFycG1aRHBnSjh6TURCcllpOXo2WnlBNkthQjZhdVk2WUNmNTVxRTZJcUM1NEs1VVZFeE1qQTRNVGcyT1RJMyZncm91cD0
+
+ssr://NTguMTUyLjQ3LjMzOjQxMDI1Om9yaWdpbjpjaGFjaGEyMC1pZXRmOnBsYWluOmFIUjBjSE02THk5emMzSnpjeTV6Y0dGalpRLz9vYmZzcGFyYW09JnJlbWFya3M9YUhSMGNITTZMeTl6YzNKemN5NXpjR0ZqWlEmZ3JvdXA9TVREbGhZTXpNT2U2di1pM3ItbXJtT2Vyci1hY3V1V2N1Zw
 
 ssrss.space/register?aff=41
 （已用一年多，很稳，走我aff多送1G免费试用QAQ）
