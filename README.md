@@ -1,10 +1,16 @@
 # SSR 账号每日更新 
 > 数据来源: [逗比根据地](https://doub.io/sszhfx/) 
 ----------------------------------------------
-## 更新日期：2018-11-09 05:25:04 
+## 更新日期：2018-11-09 08:25:23 
 ***食用方法：复制下面的节点到SSR客户端去重添加即可***
 
- ssr://MTA3LjE3My4yNTUuNTo5MDphdXRoX2FlczEyOF9tZDU6YWVzLTEyOC1jdHI6cGxhaW46VVRFeU16UTFOamM0T1hF
+ ssr://MjE2LjEyNi4yMzkuMTM5OjIzMzM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY3RyOnBsYWluOlpHOTFZaTVwYnc
+
+
+ssr://MjE2LjEyNi4yMzkuMTM5OjIzMzM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY3RyOnBsYWluOlpHOTFZaTVwYnc
+
+
+ssr://MTA3LjE3My4yNTUuNTo5MDphdXRoX2FlczEyOF9tZDU6YWVzLTEyOC1jdHI6cGxhaW46VVRFeU16UTFOamM0T1hF
 
 ssr://MTk4LjEyLjg0LjI0ODo5MDphdXRoX2FlczEyOF9tZDU6YWVzLTEyOC1jdHI6cGxhaW46WVhNek9IVmhjMlJxYTJ3NVpR
 
