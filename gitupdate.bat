@@ -6,7 +6,7 @@ timeout 2
 
 git add README.md
 
-git commit -m "ssr�ڵ����,ÿ�ճ�������"
+git commit -m "ssr免费节点分享"
 
 git remote add origin git@github.com:BeanWei/freeSSR.git
 
