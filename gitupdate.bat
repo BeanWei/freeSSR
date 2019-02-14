@@ -1,12 +1,12 @@
 cd C:\Users\Administrator\Desktop\Bean\Go\src\github.com\BeanWei\SSR
 
-go run doub.go
+go run fanqiangdang.go
 
 timeout 2
 
 git add README.md
 
-git commit -m "ssr½Úµã·ÖÏí,Ã¿ÈÕ³ÖÐø¸üÐÂ"
+git commit -m "ssrï¿½Úµï¿½ï¿½ï¿½ï¿½,Ã¿ï¿½Õ³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"
 
 git remote add origin git@github.com:BeanWei/freeSSR.git
 

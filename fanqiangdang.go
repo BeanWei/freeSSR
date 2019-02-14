@@ -18,9 +18,10 @@ func main() {
 	)
 
 	c.OnHTML("body", func(e *colly.HTMLElement) {
-		comments := e.ChildText(".commentlist")
+		comments := e.ChildText("#postmessage_379")
 		reg := regexp.MustCompile(`ssr(.*?)[\n]`)
 		ssrAddr := reg.FindAllString(comments, -1)
+		fmt.Print(ssrAddr)
 		ssrAddr2Str := strings.Replace(strings.Trim(fmt.Sprint(ssrAddr), "[]"), " ", "\n", -1)
 		file, error := os.OpenFile("C:\\Users\\Administrator\\Desktop\\Bean\\Go\\src\\github.com\\BeanWei\\SSR\\README.md", os.O_WRONLY|os.O_TRUNC|os.O_CREATE, 0600)
 		defer file.Close()
