@@ -10,11 +10,11 @@ import (
 	"github.com/gocolly/colly"
 )
 
-var templet string = "# SSR 账号每日更新 \n> 数据来源: [逗比根据地](https://doub.io/sszhfx/) \n----------------------------------------------\n## 更新日期：%s \n***食用方法：复制下面的节点到SSR客户端去重添加即可***\n\n %s"
+var templet string = "# SSR 账号每日更新 \n> 数据来源: [翻墙党](https://fanqiangdang.com/) \n----------------------------------------------\n## 更新日期：%s \n***食用方法：复制下面的节点到SSR客户端去重添加即可***\n\n %s"
 
 func main() {
 	c := colly.NewCollector(
-		colly.AllowedDomains("doub.io"),
+		colly.AllowedDomains("fanqiangdang.com"),
 	)
 
 	c.OnHTML("body", func(e *colly.HTMLElement) {
@@ -39,7 +39,7 @@ func main() {
 		// fmt.Print("\n>>> Done")
 	})
 
-	c.Visit("https://doub.io/sszhfx/")
+	c.Visit("https://fanqiangdang.com/forum.php?mod=viewthread&tid=84&page=1&extra=#pid379")
 }
 
 // func autogit(strCmd string) {
