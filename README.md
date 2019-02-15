@@ -1,7 +1,7 @@
 # SSR 账号每日更新 
 > 数据来源: [翻墙党](https://fanqiangdang.com/) 
 ----------------------------------------------
-## 更新日期：2019-02-16 02:25:14 
+## 更新日期：2019-02-16 05:25:14 
 ***食用方法：复制下面的节点到SSR客户端去重添加即可***
 
  ssr://MTE5LjI4LjEzMC4xMjA6MTAwMTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpjM055UURFeU13Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9UUZOVFVsUlBUMHhmTVRFNUxqSTRMakV6TUM0eE1qQSZncm91cD1VMU5TVkU5UFRDNURUMDBnNW82bzZZQ0I
